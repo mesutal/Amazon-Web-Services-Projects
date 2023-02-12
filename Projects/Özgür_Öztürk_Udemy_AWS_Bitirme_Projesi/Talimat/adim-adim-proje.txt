@@ -1,5 +1,5 @@
 #İlk olarak sizlerden bir VPC yaratmanızı istiyorum.
-1: Eğer eğitimin VPC bölümünde oluşturduğumuz VPC'i sildiyseniz o bölüme tekrar dönerek adım adım takip edin ve 3 Public subnetten oluşan bir VPC oluşturun.
+1:3 Public subnetten oluşan bir VPC oluşturun.
 
 #İki adet S3 bucket yaratarak daha sonra uygulamamız tarafından yüklenen resimleri burada depolayacağız. İlk Bucket resimleri saklayacak, ikinci bucket ise Lambda fonksiyonumuzun yaratacağı resmin küçük boyutlu kopyalarını saklayacak. 
 2: S3 servisine geçerek ismi projeisminiz olan bir bucket oluşturun. ve içerisine de images adında bir klasör yaratın
